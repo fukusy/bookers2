@@ -1,0 +1,245 @@
+[33mcommit 2fbe504c7f12d9eb3b9d0ebf60144b42a471ee9e[m[33m ([m[1;36mHEAD -> [m[1;32missue5[m[33m, [m[1;31morigin/issue5[m[33m)[m
+Merge: 41094a6 d6fda04
+Author: fukusy <fuku1study@gmail.com>
+Date:   Wed Oct 6 08:12:13 2021 +0000
+
+    [Fix]コンフリクトのため修正1
+
+[33mcommit 41094a6989987bf36f08e4b99d7fbce20df98ba6[m
+Author: fukusy <fuku1study@gmail.com>
+Date:   Wed Oct 6 07:16:55 2021 +0000
+
+    [Add]本詳細ページにも追加
+
+[33mcommit 5d5801d478ada2d70cd2ab0baf44af270fec8663[m
+Author: fukusy <fuku1study@gmail.com>
+Date:   Wed Oct 6 05:32:39 2021 +0000
+
+    [Add]いいね機能非同期通信追加
+
+[33mcommit a8a4b097f1996462c4f6ec0bffb8d9b2623759bf[m[33m ([m[1;31morigin/issue4[m[33m, [m[1;32missue4[m[33m)[m
+Author: fukusy <fuku1study@gmail.com>
+Date:   Mon Oct 4 08:40:38 2021 +0000
+
+    [Finish]前方・後方検索機能追加完了とレイアウと変更
+
+[33mcommit a1c020a2d1da0ea88bdd489de9fa9c4c9c205e0f[m
+Author: fukusy <fuku1study@gmail.com>
+Date:   Mon Oct 4 07:43:20 2021 +0000
+
+    [Fix]centerに検索機能表示
+
+[33mcommit 5757f81d604aa35c79884723c0205d0f542ad0e0[m
+Author: fukusy <fuku1study@gmail.com>
+Date:   Mon Oct 4 07:37:41 2021 +0000
+
+    [Add]検索機能の完全一致と部分一致のみ追加
+
+[33mcommit d6fda041d2cdbf21e4f5fa696e75464d12d3392a[m
+Merge: a5700dd b1d8e76
+Author: fukusy <fuku1study@gmail.com>
+Date:   Sun Oct 3 03:22:17 2021 +0000
+
+    Merge branch 'main' of github.com:fukusy/bookers2
+
+[33mcommit 96b8fa522b44a2055b6a8976328ec7d749f9c474[m[33m ([m[1;32missue3[m[33m)[m
+Merge: d61275e a5700dd
+Author: fukusy <fuku1study@gmail.com>
+Date:   Sat Oct 2 16:29:17 2021 +0000
+
+    Merge branch 'main' into issue3
+
+[33mcommit d61275eb1cc17fc80b9843f55c1fc987416a6155[m
+Author: fukusy <fuku1study@gmail.com>
+Date:   Sat Oct 2 15:51:59 2021 +0000
+
+    [finish]フォロー・フォロワー機能
+
+[33mcommit fb71a24e5152c9add8a3ad90d9abb00993d8021b[m
+Author: fukusy <fuku1study@gmail.com>
+Date:   Sat Oct 2 06:17:16 2021 +0000
+
+    [Fix]フォロー機能修正
+
+[33mcommit ff189e777c22f13992d0f3b25ead0475814e0774[m
+Author: fukusy <fuku1study@gmail.com>
+Date:   Fri Oct 1 08:41:28 2021 +0000
+
+    フォロー・フォロー解除機能追加
+
+[33mcommit fa96ada87615714ffe118581889532220b319b56[m
+Author: fukusy <fuku1study@gmail.com>
+Date:   Fri Oct 1 03:33:21 2021 +0000
+
+    リレーションとコントローラー作成
+
+[33mcommit 9977249fc2cd7d64b371a9fd230511dc2162b924[m
+Author: fukusy <fuku1study@gmail.com>
+Date:   Thu Sep 30 02:59:10 2021 +0000
+
+    Relationshipモデル作成
+
+[33mcommit b1d8e762ffca447ed569f83b46dd5614354c6df5[m
+Merge: 587b13d db8e886
+Author: fukusy <89019609+fukusy@users.noreply.github.com>
+Date:   Tue Sep 28 21:41:31 2021 +0900
+
+    Merge pull request #3 from fukusy/issue2
+    
+    [Finish]追加修正完了
+
+[33mcommit db8e8867f709bcf2a501f22302714eb3129e1f20[m[33m ([m[1;31morigin/issue2[m[33m, [m[1;32missue2[m[33m)[m
+Author: fukusy <fuku1study@gmail.com>
+Date:   Tue Sep 28 12:39:50 2021 +0000
+
+    [Finish]追加修正完了
+
+[33mcommit 587b13d5b901e15e5913a3e4b4014e77e6de00e7[m
+Merge: d84bb2c 2efe06c
+Author: fukusy <89019609+fukusy@users.noreply.github.com>
+Date:   Tue Sep 28 21:35:38 2021 +0900
+
+    Merge pull request #2 from fukusy/revert-1-issue1
+    
+    Revert "いいね機能とコメント機能追加"
+
+[33mcommit 2efe06c9b9823e497e770f670cf1fecabf4134c0[m[33m ([m[1;31morigin/revert-1-issue1[m[33m)[m
+Author: fukusy <89019609+fukusy@users.noreply.github.com>
+Date:   Tue Sep 28 21:35:25 2021 +0900
+
+    Revert "いいね機能とコメント機能追加"
+
+[33mcommit a5700ddb409d1f66629eed2d75cb50c2afdf09a5[m
+Author: fukusy <fuku1study@gmail.com>
+Date:   Tue Sep 28 12:29:07 2021 +0000
+
+    [Fix]ユーザーページにもコメント数表示
+
+[33mcommit d84bb2ca337167bc53c6dc9991c9e0604c29b520[m
+Merge: 7847b16 cd8c101
+Author: fukusy <89019609+fukusy@users.noreply.github.com>
+Date:   Tue Sep 28 21:05:22 2021 +0900
+
+    Merge pull request #1 from fukusy/issue1
+    
+    いいね機能とコメント機能追加
+
+[33mcommit cd8c10106420872b2363536fd2328833dd203fc4[m[33m ([m[1;31morigin/issue1[m[33m, [m[1;32missue1[m[33m)[m
+Author: fukusy <fuku1study@gmail.com>
+Date:   Tue Sep 28 11:57:47 2021 +0000
+
+    [Finish]コメント機能追加-完成
+
+[33mcommit a077fd9556625d2468bb20935382e2aecfaa1ac5[m
+Author: fukusy <fuku1study@gmail.com>
+Date:   Mon Sep 27 13:50:33 2021 +0000
+
+    [Fix]同じページにリダイレクトでindexもいいね機能追加
+
+[33mcommit 6c65a23d6462acd684b9f75ad6e4086c5972e532[m
+Author: fukusy <fuku1study@gmail.com>
+Date:   Mon Sep 27 09:10:57 2021 +0000
+
+    [Add]本の詳細ページでいいね機能追加
+
+[33mcommit 7fbf4190dcf3ebf08b6440c6e67f784fb78935b5[m
+Author: fukusy <fuku1study@gmail.com>
+Date:   Mon Sep 27 08:00:44 2021 +0000
+
+    [Add]Favoritesモデルとのアソシエーション
+
+[33mcommit 7847b160d1a5a013ce0655533e82f2e819dff0b7[m
+Author: fukusy <fuku1study@gmail.com>
+Date:   Thu Sep 23 05:01:16 2021 +0000
+
+    [Finish]Rspecテストのエラー解消
+
+[33mcommit 56c9d80eee65db85f8b4154264262f51cd56b823[m
+Author: fukusy <fuku1study@gmail.com>
+Date:   Wed Sep 22 13:07:51 2021 +0000
+
+    [Fix]機能を全て修正しました
+
+[33mcommit 450d800c76669b93e38c8777fa5fd9ff22b54738[m
+Author: fukusy <fuku1study@gmail.com>
+Date:   Wed Sep 22 09:12:33 2021 +0000
+
+    [Add]ログインしていない時にページが表示できないよう設定
+
+[33mcommit e576eb1649a3b4987ac8b2104b40712b74cbf836[m
+Author: fukusy <fuku1study@gmail.com>
+Date:   Tue Sep 21 14:33:07 2021 +0000
+
+    [Add]User infoを共通化
+
+[33mcommit ac418289930c2729bc70846e1bd8286030466276[m
+Author: fukusy <fuku1study@gmail.com>
+Date:   Tue Sep 21 04:40:19 2021 +0000
+
+    [Add]プロフィール
+
+[33mcommit af534e76f1ab55acf19cbdbc70f26473c06a860b[m
+Author: fukusy <fuku1study@gmail.com>
+Date:   Mon Sep 20 02:17:39 2021 +0000
+
+    [Add]loginを名前でできるように編集
+
+[33mcommit 11a7d031f88f00f6feef3ea4d8c1c5086442549f[m
+Author: fukusy <fuku1study@gmail.com>
+Date:   Sun Sep 19 07:37:13 2021 +0000
+
+    [Add]新規登録画面編集中
+
+[33mcommit 75a92feb4f50c0f53e2d152ae440f6eb7d8db367[m
+Author: fukusy <fuku1study@gmail.com>
+Date:   Sun Sep 19 02:37:39 2021 +0000
+
+    [Add]headerメニューアイコン追加
+
+[33mcommit 45e56365cd656a5fd801a74350815a55f33b1341[m
+Author: fukusy <fuku1study@gmail.com>
+Date:   Sat Sep 18 14:53:43 2021 +0000
+
+    [Add]footerレイアウト変更
+
+[33mcommit 034adf64ffa8e6aeaa6fbd836207b1ae8446b77d[m
+Author: fukusy <fuku1study@gmail.com>
+Date:   Sat Sep 18 13:40:55 2021 +0000
+
+    [Add]Bootstrapの追加
+
+[33mcommit a5c0043c895f7282fe7a356eca2d8eb0a18e26d9[m
+Author: fukusy <fuku1study@gmail.com>
+Date:   Sat Sep 18 13:23:40 2021 +0000
+
+    [Add]view追加
+
+[33mcommit 73a404eda583a3ceb651c1f7c6029f6504f4ccf9[m
+Author: fukusy <fuku1study@gmail.com>
+Date:   Sat Sep 18 09:23:06 2021 +0000
+
+    [Add]controller作成
+
+[33mcommit 73e9bad3e66133b08893d14ccc054058b14d6ac1[m
+Author: fukusy <fuku1study@gmail.com>
+Date:   Sat Sep 18 08:16:27 2021 +0000
+
+    [Add]refile追加
+
+[33mcommit 5efa49522fa98ecbf87ce718027480109f23142c[m
+Author: fukusy <fuku1study@gmail.com>
+Date:   Fri Sep 17 14:37:15 2021 +0000
+
+    [Add]トップ画面編集
+
+[33mcommit 0caaedb7f551d360df1519f487b18bd13b94aa62[m
+Author: fukusy <fuku1study@gmail.com>
+Date:   Thu Sep 16 14:03:04 2021 +0000
+
+    [Add]ユーザー認証機能追加
+
+[33mcommit 5573fb60b6c1b9974a65009e055651226e815e76[m
+Author: fukusy <fuku1study@gmail.com>
+Date:   Thu Sep 16 13:19:25 2021 +0000
+
+    [Start]
